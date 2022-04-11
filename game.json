@@ -1,0 +1,21 @@
+{
+  "name": "Test Game",
+  "characters": [
+    {
+      "owner": 406796740939743242,
+      "name": "Test",
+      "full_name": "Test Character",
+      "backstory": "A test was created by the developer.",
+      "stats": {
+        "Strength": 1.7,
+        "Speed": 3.2,
+        "Lol": 4.4
+      },
+      "inventory": {
+        "L Water": 1.2,
+        "Sword": 1.0,
+        "Hat": 3.0
+      }
+    }
+  ]
+}
